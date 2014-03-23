@@ -1,4 +1,8 @@
 Player
+  `-> has purse
+places
+  `-> 12 places to go around
+  `-> move forward per roll
 PenaltyBox
   `-> odd number gets one out 
 Location
