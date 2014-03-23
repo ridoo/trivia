@@ -2,3 +2,8 @@ scala/.idea/
 scala/scala.iml
 scala/out/
 *.class
+java/.classpath
+java/.project
+java/.settings/org.eclipse.jdt.core.prefs
+java/.settings/org.eclipse.m2e.core.prefs
+java/target/
