@@ -1,5 +1,6 @@
 Player
   `-> has purse
+  `-> can earn coins
 places
   `-> 12 places to go around
   `-> move forward per roll
