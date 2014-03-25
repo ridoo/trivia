@@ -1,4 +1,4 @@
-package com.adaptionsoft.games.uglytrivia;
+package com.adaptionsoft.games.trivia.player;
 
 public class Purse {
     
@@ -6,10 +6,6 @@ public class Purse {
     
     public void addACoin() {
         coins++;
-    }
-    
-    public void add(int coins) {
-        this.coins += coins;
     }
     
     public int getCoins() {
